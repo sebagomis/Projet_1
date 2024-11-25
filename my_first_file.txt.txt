@@ -1,1 +1,2 @@
 "Hey, I'm really happy to discover Git and GitHub".
+"Hello, it is really time consuming"
