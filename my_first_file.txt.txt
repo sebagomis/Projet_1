@@ -1,0 +1,1 @@
+"Hey, I'm really happy to discover Git and GitHub".
